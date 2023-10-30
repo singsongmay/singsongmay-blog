@@ -8,12 +8,12 @@ const SearchInput: React.FC<Props> = ({ ...props }) => {
   return (
     <StyledWrapper>
       <div className="top">
-        <Emoji>🔎</Emoji> Search
+        🔎 검색
       </div>
       <input
         className="mid"
         type="text"
-        placeholder="Search Keyword..."
+        placeholder="검색할 내용을 입력하세요."
         {...props}
       />
     </StyledWrapper>
