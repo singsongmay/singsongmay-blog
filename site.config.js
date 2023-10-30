@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `singsongmay`,
-      href: "https://github.com/singsongmay/singsongmay-blog",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
